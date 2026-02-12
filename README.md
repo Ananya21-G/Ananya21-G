@@ -39,9 +39,3 @@ I am a Computer Science undergraduate (Batch of 2027) with a focus on full stack
 **LeetCode** &nbsp;·&nbsp; [Profile](https://leetcode.com/u/qwRn473aIK/)
 
 ---
-
-<div align="center">
-
-![footer](./utils/footer.svg)
-
-</div>
