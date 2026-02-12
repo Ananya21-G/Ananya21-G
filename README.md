@@ -6,13 +6,7 @@
 
 <br>
 
----
 
-### DISPATCH · ABOUT
-
-I am a Computer Science undergraduate (Batch of 2027) with a focus on full stack web development and scalable backend systems. I build things with Java and JavaScript, think in systems, and have a persistent habit of reading documentation at odd hours. Currently sharpening instincts in system design, distributed architecture, and everything that lives between the frontend and the database.
-
----
 
 ### THE STACK · TOOLS OF THE TRADE
 
